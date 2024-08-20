@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: INSURANCE-PROVIDER
+
+server:
+  port: 8888
